@@ -12,10 +12,11 @@ payment_txs/
 download_txs/
 transfer_txs/
 wallets/
+dmint/
 wallet.json
 wallet.json.*
 keypairs.json
-owners.json 
+owners.json
 commit-command-output*.json
 # Editor directories and files
 .idea
